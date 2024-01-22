@@ -1,10 +1,10 @@
 ### <h1 align="center">Mohd Mujahed</h1>
-<h3 align="center"> Full Stack Developer </h3>
+<h3 align="center"> Full Stack Developer at Dastrade International Pvt Ltd | Building DesignerDudes ⚒️ </h3>
 <br />
 
 - Looking forward to collaborate on software development projects.
 - Aspiring to be a Machine Learning Engineer.
-- I am a ML Research Intern at RCI - DRDO. I am currently working on Neural Networks.
+- I am a ML Research Intern at RCI - DRDO. Working on Neural Networks.
 
 <br/>  
 
