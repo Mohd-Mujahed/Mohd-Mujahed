@@ -1,5 +1,5 @@
 ### <h1 align="center">Mohd Mujahed</h1>
-<h3 align="center"> Full Stack Developer at Dastrade International Pvt Ltd | Building DesignerDudes ⚒️ </h3>
+<h3 align="center"> Full Stack Developer at Dastrade International Pvt Ltd | Building X ⚒️ </h3>
 <br />
 
 - Looking forward to collaborate on software development projects.
