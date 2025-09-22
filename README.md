@@ -1,10 +1,7 @@
 ### <h1 align="center">Mohd Mujahed</h1>
-<h3 align="center"> Full Stack Developer at Dastrade International Pvt Ltd | Building X ⚒️ </h3>
+<h3 align="center"> Full Stack Developer at XUNOIA TECHNOLOGIES PRIVATE LIMITED | Building X ⚒️ </h3>
 <br />
-
-- Looking forward to collaborate on software development projects.
-- Aspiring to be a Machine Learning Engineer.
-- I am a ML Research Intern at RCI - DRDO. Working on Neural Networks.
+ 
 
 <br/>  
 
