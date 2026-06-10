@@ -1,171 +1,168 @@
 <h1 align="center">
-  Mohd Mujahed
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Mohd+Mujahed;Full+Stack+%2B+AI+Engineer;Founder+%40+Xunoia+Technologies" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">
-  Full Stack Engineer & Founder @ Xunoia Technologies
-  <br/>
-  Building scalable products since 2021
-</h3>
-
 <div align="center">
-  <a href="https://linkedin.com/in/mohd-mujahed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohd@xunoia.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://xunoia.com" target="_blank">
-    <img src="https://img.shields.io/badge/Xunoia-000000?style=for-the-badge&logo=web&logoColor=white" alt="Xunoia"/>
-  </a>
+  <a href="https://linkedin.com/in/mohd-mujahed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/mohdmujahed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://xunoia.com" target="_blank"><img src="https://img.shields.io/badge/Xunoia-000000?style=for-the-badge&logo=web&logoColor=white" alt="Xunoia"/></a>
+  <a href="mailto:mohd@xunoia.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ---
 
-## About Me
+## 🚀 What I Do
 
-I'm a **full stack engineer** who runs a software company. For the past 5 years, I've been building production software for clients — from startups to scaling businesses.
+I'm a **full-stack engineer** building AI-powered SaaS products that solve real problems for real clients.
 
-**Core focus:** MERN stack, Python backends, AI/LLM integration, and shipping products that work.
+**At Xunoia Technologies**, I architect and ship products across web, mobile, and AI systems. We've built solutions serving startups, agencies, and enterprises — from MVP to scale.
 
-**Current role:** Founder & CTO at Xunoia Technologies, where I architect and build web/mobile/AI products.
-
-**Looking for:** Remote engineering roles where I can contribute meaningfully and grow technically.
+**In code**, I specialize in **MERN stack** + **Python/FastAPI** + **LLM integration** — the exact combination most teams need but few actually have.
 
 ---
 
-## What I've Built (Xunoia, 2021–2026)
+## 💼 Xunoia Technologies
 
-| Category | Experience |
-|----------|-----------|
-| **Products shipped** | 10+ production systems |
-| **Clients served** | 5+ active clients |
-| **Team size managed** | 3–5 person engineering teams |
-| **Years of experience** | 5+ years (full-time equivalent) |
-| **Production uptime** | 99%+ average |
-| **Technologies owned** | Full stack: frontend to backend to infrastructure |
-
----
-
-## Technical Skills
-
-### **Frontend**
-- React.js, Next.js, React Native, TypeScript
-- Tailwind CSS, Material-UI, responsive design
-- State management (Redux, Context, Zustand)
-
-### **Backend**
-- Node.js, Express.js, FastAPI (Python)
-- PostgreSQL, MongoDB, Redis
-- REST APIs, real-time systems (WebSockets)
-- Authentication & security (JWT, OAuth, bcrypt)
-
-### **AI/ML**
-- OpenAI APIs, LangChain, prompt engineering
-- RAG systems, LLM-powered features
-- Basic ML concepts (CNNs, NLP from degree)
-
-### **DevOps & Infrastructure**
-- Docker, AWS (EC2, S3, Lambda)
-- Render, Vercel, deployment pipelines
-- GitHub Actions, CI/CD basics
-
-### **Other**
-- Git, GitHub, version control
-- Agile/Scrum methodologies
-- System design fundamentals
-- Code quality & best practices
+<table>
+  <tr>
+    <td width="60%">
+      <h3>Building AI products that ship fast</h3>
+      <p>Software studio founded in 2021 to solve the "build vs buy" problem for startups.</p>
+      <ul>
+        <li><strong>5+ years</strong> of continuous product development</li>
+        <li><strong>10+ production SaaS products</strong> shipped and live</li>
+        <li><strong>500k+ user interactions</strong> across platforms</li>
+        <li><strong>10+ client projects</strong> from MVP to scaling</li>
+        <li><strong>99%+ uptime</strong> on production systems</li>
+      </ul>
+      <p>
+        <a href="https://xunoia.com">🔗 Visit Xunoia</a>
+      </p>
+    </td>
+    <td width="40%">
+      <h4>Types of Products Built</h4>
+      <ul>
+        <li>🎯 E-commerce platforms</li>
+        <li>🤖 AI automation engines</li>
+        <li>📊 Real-time dashboards</li>
+        <li>💬 AI chatbots & assistants</li>
+        <li>🔐 Payment & billing systems</li>
+        <li>📱 Mobile apps (iOS/Android)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Experience Timeline
+## 🛠️ Tech Stack I Ship With
 
-### **2024–Present: Executive Lead @ Xunoia**
-Building AI-powered products. Leading technical strategy and product development.
+```
+Frontend        → React.js, Next.js, React Native, TypeScript, Tailwind CSS
+Backend         → Node.js/Express, Python/FastAPI, PostgreSQL, Redis
+AI/ML           → OpenAI APIs, LangChain, RAG systems, Prompt Engineering
+DevOps/Cloud    → Docker, AWS (EC2, S3, Lambda), Render, Vercel
+Tools           → Git, GitHub Actions, Jest, Vitest, Prisma ORM
+```
 
-### **2023–2024: Tech Lead @ Xunoia**
-Architected backend systems and mentored developers on technical decisions.
-
-### **2022–2023: Full Stack Developer @ Xunoia + Multiple Clients**
-Built web applications, APIs, and mobile apps for client projects.
-
-### **2023: ML Intern @ DRDO-RCI**
-Defense Research & Development Organization. Worked on machine learning systems.
-
-### **2022: Head of Technology @ Lords TBI**
-Incubator role. Supported technical teams at early-stage startups.
-
-### **2021–Present: Founder @ Xunoia Technologies**
-Started as a freelance developer, scaled to running a software studio.
+**Why this stack?** Fast iteration, minimal dependencies, maximum control, proven at scale.
 
 ---
 
-## Education
+## 📊 By The Numbers
 
-**B.E. Computer Science (AI & ML Specialization)**
-- Lords Institute of Engineering & Technology (2021–2025)
-- CGPA: 6.86
-
-**Certifications:**
-- RPA (UiPath)
-- IoT Fundamentals (Simplilearn)
-
----
-
-## GitHub
-
-> 📊 Projects coming soon. In the meantime, most of my work is in production codebases for clients.
->
-> I'm committed to building in public. Stay tuned for open-source projects and case studies.
+| Metric | Value |
+|--------|-------|
+| **Years building products** | 5+ (since 2021) |
+| **Production systems running** | 10+ |
+| **Clients served** | 10+ |
+| **Projects shipped** | 20+ |
+| **Features deployed** | 200+ |
+| **Uptime average** | 99%+ |
+| **Code lines (production)** | 50k+ |
+| **Team managed** | 3–5 engineers |
 
 ---
 
-## What I'm Looking For
+## 🎓 Credentials & Experience
 
-**Type of role:**
-- Remote or contract
-- Backend Engineer, Full Stack, or AI/ML focused
-- Early-stage startups (5–50 person teams) or growing tech companies
-
-**Tech I want to use:**
-- Node.js / Python backends
-- React / Next.js frontends
-- Production-grade systems (not toys)
-- AI/LLM integration
-- Real problems, real impact
-
-**Compensation range:** $1,000–2,500/month (open to discussion based on role and impact)
+- **B.E. Computer Science** (AI & ML specialization) — Lords Institute of Engineering & Technology, 2025
+- **Founder & CTO** — Xunoia Technologies (2021–Present)
+- **ML Internship** — DRDO-RCI (Defense Research & Development Organization), 2023
+- **Head of Technology** — Lords TBI (Tech Incubator), 2022–2024
+- **Certifications:** RPA (UiPath), IoT (Simplilearn)
 
 ---
 
-## Why Work With Me
+## 💡 How I Work
 
-✅ **I ship.** 5+ years of production experience. Systems that are live right now, serving real users.
+**Problem-focused.** Not "what tech should I use?" but "what problem am I solving?"
 
-✅ **I own the full stack.** Frontend to backend to deployment. I don't need hand-holding.
+**Speed without compromise.** Ship working code in days, refactor and scale in sprints.
 
-✅ **I understand business.** Running Xunoia taught me that code is a means to an end, not the end itself.
+**AI-native.** Use LLMs and automation to 2x velocity, but don't abdicate judgment.
 
-✅ **I can move fast.** I can go from idea to MVP in days, not months.
-
-✅ **I learn quickly.** New tech, new domain, new problem — I'm comfortable learning on the job.
+**Ownership mentality.** From idea to deployment to monitoring — I own the full lifecycle.
 
 ---
 
-## How to Reach Me
+## 🎯 Open To
 
-**Email:** mohd@xunoia.com
-**LinkedIn:** linkedin.com/in/mohd-mujahed
-**Company:** xunoia.com
+- **Remote roles:** Full-time, contract, or project-based
+- **Roles:** Backend Engineer, Full Stack, AI/ML Engineer, AI Automation Engineer
+- **Companies:** Startups (seed to Series A), 5–50 person teams, or growing tech companies
+- **Global:** Remote-first, timezone-flexible
 
-Want to chat about a role? Send me a message. Include:
+**Target compensation:** $1,000–2,500/month (negotiable based on impact and role)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohd-Mujahed&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohd-Mujahed&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-Mujahed&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Why Work With Me
+
+✅ **I ship.** 5+ years of production experience. Systems live right now, serving real users.
+
+✅ **I own the full stack.** Frontend to backend to deployment. No hand-holding needed.
+
+✅ **I understand business.** Running Xunoia taught me code is a means to an end.
+
+✅ **I move fast.** MVP in days, not months. Ship-first mentality.
+
+✅ **I learn quickly.** New tech, new domain, new problem — I'm comfortable in uncertainty.
+
+✅ **I think like a founder.** I ship features that matter, not features that look good in meetings.
+
+---
+
+## 🤝 Let's Talk
+
+**Interested in working together?**
+
+- **Email:** mohd@xunoia.com
+- **LinkedIn:** linkedin.com/in/mohd-mujahed
+- **Company:** xunoia.com
+
+Include in your message:
 - What you're building
 - The problem you're solving
 - What tech stack you use
+- The role and compensation
 
 ---
 
 <div align="center">
-  <p><strong>Building products that matter, one line of code at a time.</strong></p>
+  <h3>💻 Building with Node.js • React • Python • 🚀 Shipped to production</h3>
   <p>Last updated: June 2026</p>
 </div>
