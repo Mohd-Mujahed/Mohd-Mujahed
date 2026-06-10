@@ -106,14 +106,11 @@ Tools           → Git, GitHub Actions, Jest, Vitest, Prisma ORM
 
 ---
 
-## 🎯 Open To
+## 🎯 Open To Work
 
-- **Remote roles:** Full-time, contract, or project-based
-- **Roles:** Backend Engineer, Full Stack, AI/ML Engineer, AI Automation Engineer
-- **Companies:** Startups (seed to Series A), 5–50 person teams, or growing tech companies
-- **Global:** Remote-first, timezone-flexible
+**Looking for remote engineering roles.**
 
-**Target compensation:** $1,000–2,500/month (negotiable based on impact and role)
+Email: mohd@xunoia.com
 
 ---
 
