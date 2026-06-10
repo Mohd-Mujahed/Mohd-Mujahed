@@ -27,7 +27,7 @@ I'm a **full-stack engineer** building AI-powered SaaS products that solve real 
   <tr>
     <td width="60%">
       <h3>Building AI products that ship fast</h3>
-      <p>Software studio founded in 2021 to solve the "build vs buy" problem for startups.</p>
+     <p>Software studio solving the "build vs buy" problem for startups.</p>
       <ul>
         <li><strong>5+ years</strong> of continuous product development</li>
         <li><strong>10+ production SaaS products</strong> shipped and live</li>
@@ -87,7 +87,7 @@ Tools           → Git, GitHub Actions, Jest, Vitest, Prisma ORM
 ## 🎓 Credentials & Experience
 
 - **B.E. Computer Science** (AI & ML specialization) — Lords Institute of Engineering & Technology, 2025
-- **Founder & CTO** — Xunoia Technologies (2021–Present)
+- **Founder & CTO** — Xunoia Technologies | 5+ years of full-stack development
 - **ML Internship** — DRDO-RCI (Defense Research & Development Organization), 2023
 - **Head of Technology** — Lords TBI (Tech Incubator), 2022–2024
 - **Certifications:** RPA (UiPath), IoT (Simplilearn)
