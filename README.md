@@ -149,7 +149,7 @@ Email: mohd@xunoia.com
 
 - **Email:** mohd@xunoia.com
 - **LinkedIn:** linkedin.com/in/mohd-mujahed
-- **Company:** xunoia.com
+- **Company:** xunoia.com    
 
 Include in your message:
 - What you're building
