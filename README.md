@@ -147,7 +147,7 @@ Email: mohd@xunoia.com
 
 **Interested in working together?**
 
-- **Email:** mohd@xunoia.com
+- **Email:** mujahed@xunoia.com
 - **LinkedIn:** linkedin.com/in/mohd-mujahed
 - **Company:** xunoia.com    
 
